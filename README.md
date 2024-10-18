@@ -8,8 +8,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 2. [Folder Structure](#folder-structure)
 3. [Problem Categories](#problem-categories)
 4. [Setup and Usage](#setup-and-usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Introduction
 
@@ -48,11 +47,9 @@ The repository is structured as follows:
 
 ## Setup and Usage
 
-To run the Java solutions, you need to have Java installed on your system. Follow these steps:
+To run the Java solutions, you need to have Java installed on your system. 
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/LeetCode-Solutions.git
-```
-
 
