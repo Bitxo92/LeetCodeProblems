@@ -51,5 +51,5 @@ To run the Java solutions, you need to have Java installed on your system.
 
  **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/LeetCode-Solutions.git
+   git clone https://github.com/Bitxo92/LeetCodeProblems.git
 
